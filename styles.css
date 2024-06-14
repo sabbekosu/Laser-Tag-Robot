@@ -7,7 +7,7 @@ body {
 
 h1, h2, h3 {
     color: #ff6600; /* Orange color for headings */
-    text-align: center;
+    text-align: Left;
 }
 
 a {
