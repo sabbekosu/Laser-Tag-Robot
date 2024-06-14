@@ -5,7 +5,12 @@ body {
     color: #333; /* Dark text color */
 }
 
-h1, h2, h3 {
+h1 {
+    color: #ff6600; /* Orange color for headings */
+    text-align: center;
+}
+
+h2, h3 {
     color: #ff6600; /* Orange color for headings */
     text-align: left;
 }
